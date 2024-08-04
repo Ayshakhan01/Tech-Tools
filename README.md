@@ -4,9 +4,10 @@ TechTools is a comprehensive platform that consolidates the most commonly used t
 
 ## Screenshots
 
-![TechTools Interface](https://github.com/your_username/techtools/blob/main/images/screenshot1.png)
-![Tool List](https://github.com/your_username/techtools/blob/main/images/screenshot2.png)
-![Tool Details](https://github.com/your_username/techtools/blob/main/images/screenshot3.png)
+![TechTools Interface](https://github.com/Ayshakhan01/Tech-Tools/blob/main/images/images1.png)
+![Tool List](https://github.com/Ayshakhan01/Tech-Tools/blob/main/images/images2.png)
+![Tool Details](https://github.com/Ayshakhan01/Tech-Tools/blob/main/images/images3.png)
+![Tool Details](https://github.com/Ayshakhan01/Tech-Tools/blob/main/images/images4.png)
 
 ## Live Demo
 
@@ -23,8 +24,8 @@ You can try out the TechTools platform live by visiting [Click Here](https://tec
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your_username/techtools.git
-    cd techtools
+    git clone https://github.com/Ayshakhan01/Tech-Tools.git
+    cd Tech-Tools
     ```
 
 2. **Install Node.js and npm**:
@@ -68,4 +69,15 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
 5. **Open a Pull Request**
 
+## License
 
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Project Link: [https://github.com/Ayshakhan01/Tech-Tools](https://github.com/Ayshakhan01/Tech-Tools)
+
+## Acknowledgments
+
+- [React](https://reactjs.org/) for the powerful and efficient front-end framework.
+- Thanks to all contributors and users for their support and feedback.
